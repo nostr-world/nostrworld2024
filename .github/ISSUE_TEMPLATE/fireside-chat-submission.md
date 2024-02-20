@@ -1,6 +1,6 @@
 ---
 name: Fireside Chat Submission
-about: Submit your idea for fireside chat for Nostriga!
+about: Submit your idea for fireside chat (interviewee/interviewer) for Nostriga!
 title: ''
 labels: 'Fireside'
 assignees: ''
