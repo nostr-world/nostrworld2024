@@ -1,8 +1,8 @@
 ---
-name: Solo Talk Submission
+name: Keynote Submission
 about: Submit your talk idea for Nostriga!
 title: ''
-labels: 'Talk'
+labels: 'Keynote'
 assignees: ''
 
 ---
