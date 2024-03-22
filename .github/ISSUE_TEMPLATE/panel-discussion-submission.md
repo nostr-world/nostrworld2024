@@ -15,6 +15,7 @@ assignees: ''
 
 # About the panelist
 ### Social Links
+Nostr
 GitHub 
 Twitter
 Website

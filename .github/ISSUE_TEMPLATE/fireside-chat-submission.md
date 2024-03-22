@@ -22,6 +22,7 @@ Website
 
 # About the Interviewer
 ### Social Links
+Nostr
 Github 
 Twitter
 Website

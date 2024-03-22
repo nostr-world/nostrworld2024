@@ -15,6 +15,7 @@ assignees: ''
 
 # About the Speaker
 ### Social Links
+Nostr
 Github 
 Twitter
 Website
